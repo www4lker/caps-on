@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-capslock-notifier",
+	"name": "CapsLock Notifier",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Notifica quando o CAPS LOCK está ativado durante a digitação",
+	"author": "Seu Nome",
+	"authorUrl": "https://seusite.com",
+	"isDesktopOnly": false
+}
